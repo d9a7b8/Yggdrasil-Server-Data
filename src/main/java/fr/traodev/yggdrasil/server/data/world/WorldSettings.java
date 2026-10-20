@@ -1,6 +1,7 @@
 package fr.traodev.yggdrasil.server.data.world;
 
 import fr.traodev.yggdrasil.server.data.nbt.objects.TagObject;
+import fr.traodev.yggdrasil.server.data.nbt.objects.defaults.TagByte;
 import fr.traodev.yggdrasil.server.data.nbt.objects.defaults.TagCompound;
 
 import java.util.Map;

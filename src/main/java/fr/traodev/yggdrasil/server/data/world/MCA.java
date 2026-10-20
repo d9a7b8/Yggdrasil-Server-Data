@@ -1,5 +1,8 @@
 package fr.traodev.yggdrasil.server.data.world;
 
+import fr.traodev.yggdrasil.server.data.world.chunk.ChunkHeader;
+import fr.traodev.yggdrasil.server.data.world.chunk.ChunkSettings;
+
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.util.ArrayList;
