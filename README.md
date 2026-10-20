@@ -47,11 +47,11 @@ Installation instructions, documentation, and usage examples will be added as th
 
 ## 🗺️ Roadmap
 
-- [ ] NBT parsing and serialization
-- [ ] JSON parsing and serialization
-- [ ] Component data support
-- [ ] World data structures
-- [ ] Data conversion utilities
+- [x] NBT parsing and serialization
+- [x] JSON parsing and serialization
+- [x] Component data support
+- [x] World data structures
+- [x] Data conversion utilities
 - [ ] Documentation and usage examples
 - [ ] Testing and API improvements
 
